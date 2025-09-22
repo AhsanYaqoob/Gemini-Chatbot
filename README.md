@@ -27,4 +27,5 @@ Users can switch between models to compare **speed (Flash)** vs **reasoning & ac
    cd Gemini-Chatbot
 ---
 
-## 📂 Project Structure
+
+
